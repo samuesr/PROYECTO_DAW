@@ -1,3 +1,3 @@
 # PROYECTO_DAW
-Samuel Sánchez Ramos
+Samuel Sánchez Ramos \ln
 Antonio Iliyanov Todorov
